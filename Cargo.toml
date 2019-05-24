@@ -1,5 +1,6 @@
 [package]
 name = "all_args_string"
+description = "Read all individual args as one string joined by spaces"
 version = "0.1.0"
 authors = ["Stephan Goeppentin <dedda102@gmai..com>"]
 edition = "2018"
