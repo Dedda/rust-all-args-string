@@ -1,0 +1,9 @@
+[package]
+name = "all_args_string"
+version = "0.1.0"
+authors = ["Stephan Goeppentin <dedda102@gmai..com>"]
+edition = "2018"
+license = "LGPL-3.0"
+repository = "https://github.com/Dedda/rust-all-args-string"
+
+[dependencies]
